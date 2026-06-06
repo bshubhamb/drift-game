@@ -8,8 +8,5 @@
     "dev": "npm run dev -w @drift/web",
     "build": "npm run build -w @drift/web",
     "lint": "npm run lint -w @drift/web"
-  },
-  "dependencies": {
-    "word-list": "^4.1.0"
   }
 }
